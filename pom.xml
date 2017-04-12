@@ -4,7 +4,7 @@
 
 	<groupId>com.xiajiajia</groupId>
 	<artifactId>TestMaven</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0</version>
 	<packaging>jar</packaging>
 	<parent>
 		<groupId>com.xiajiajia.training</groupId>
