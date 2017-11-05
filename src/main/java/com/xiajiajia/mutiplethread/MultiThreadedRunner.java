@@ -13,7 +13,7 @@ import org.junit.runners.model.Statement;
  */
 public class MultiThreadedRunner extends BlockJUnit4ClassRunner {
 
-    private AtomicInteger numThreads;
+    private AtomicInteger numThreads ;
 
     public static int maxThreads = 10;
 
