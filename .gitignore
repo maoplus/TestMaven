@@ -13,7 +13,7 @@ out/
 *.bak
 .DS_Store
 *.class
-
+hs_err_pid*
 # Package Files #
 *.jar
 *.war
