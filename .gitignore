@@ -1,1 +1,20 @@
-/target/
+.project
+.gradletasknamecache
+.settings/
+.gradle/
+target/
+bin/
+out/
+.classpath
+.springBeans
+*.iml
+.idea
+*/build
+*.bak
+.DS_Store
+*.class
+hs_err_pid*
+# Package Files #
+*.jar
+*.war
+*.ear
