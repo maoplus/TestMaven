@@ -5,6 +5,6 @@ public class Mytest {
 
   public static void main(String[] args) {
 
-    System.out.println("hello world feature/dev");
+    System.out.println("hello world haha merge");
   }
 }
