@@ -7,5 +7,6 @@ public class Mytest {
 
     System.out.println("dev i am new ");
     System.out.println("shabi");
+    System.out.println("lala");
   }
 }
